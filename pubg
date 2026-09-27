@@ -1,0 +1,11 @@
+/ip firewall address-list
+add address=43.0.0.0/8 comment="PUBG Network Range" list=PUBG
+add address=49.0.0.0/8 comment="PUBG Network Range" list=PUBG
+add address=101.0.0.0/8 comment="PUBG Network Range" list=PUBG
+add address=119.0.0.0/8 comment="PUBG Network Range" list=PUBG
+add address=129.226.0.0/16 comment="PUBG Tencent Cloud" list=PUBG
+add address=150.0.0.0/8 comment="PUBG Network Range" list=PUBG
+add address=159.138.0.0/16 comment="PUBG Server Range" list=PUBG
+add address=162.62.0.0/16 comment="PUBG Server Range" list=PUBG
+add address=170.0.0.0/22 comment="PUBG Network Range" list=PUBG
+add address=203.0.0.0/8 comment="PUBG Network Range" list=PUBG
